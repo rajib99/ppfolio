@@ -1,0 +1,78 @@
+/*Large Devices Layout: 1200px*/
+
+@media only screen and (max-width: 1200px) {
+    .go_to ul li a {
+        padding: 4px 7px 4px 0;
+        margin-right: 7px;
+    }
+}
+
+
+/* Medium Devices Layout: 991px */
+
+@media only screen and (max-width: 991.98px) {
+    .listing {
+        flex-direction: column;
+        align-items: self-start;
+    }
+
+    .listing select.form-select {
+        width: 100%;
+    }
+
+    .get_start_btn {
+        text-align: center;
+        margin-top: 15px;
+    }
+}
+
+
+/*Tablet Layout: 767px*/
+
+@media only screen and (max-width: 767.98px) {
+    .banner_area {
+        height: 190px;
+    }
+
+    .banner_area h1 {
+        font-size: 40px;
+        line-height: 1.2;
+        text-align: center;
+        max-width: 100%;
+    }
+
+    .section_padding {
+        padding: 60px 0;
+    }
+
+
+    .main_content_area {
+        padding-bottom: 0;
+    }
+
+    .go_to ul li a {
+        margin-right: 0px;
+    }
+
+    .filter_area {
+        flex-direction: column;
+        flex-direction: column;
+        align-items: start;
+        gap: 20px;
+    }
+}
+
+
+/* Small Mobile Layout: 576px) */
+
+@media (max-width: 575.98px) {}
+
+
+
+/* Extra Small Mobile Layout: 480px. */
+
+@media only screen and (max-width: 479px) {}
+
+
+/* Extra Small Mobile Height */
+@media only screen and (max-height: 400px) {}

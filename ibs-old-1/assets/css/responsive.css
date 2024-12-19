@@ -1,0 +1,697 @@
+@media only screen and (max-width: 1599.99px) {
+    .notification_popup {
+        padding: 25px;
+    }
+
+    .notification_popup h2 {
+        font-size: 30px;
+    }
+
+    .notification_popup .single_day h3 {
+        font-size: 20px;
+        padding: 7px 15px;
+    }
+
+    .notification_popup .single_notification .image {
+        width: 62px;
+    }
+
+    .notification_popup .single_notification .text h4 {
+        font-size: 18px;
+    }
+
+    .notification_popup .single_notification .text p {
+        margin-bottom: 13px;
+        font-size: 18px;
+    }
+}
+
+
+
+
+@media only screen and (min-width: 1540px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1480px;
+    }
+}
+
+@media only screen and (max-width: 1539px) {
+    .conpany_info .sidebar {
+        width: 420px;
+    }
+
+}
+
+@media only screen and (max-width: 1399.99px) {
+    .section_title h2 {
+        font-size: 50px;
+    }
+
+    .single_tasks_box .image_area img {
+        height: 125px;
+        width: 125px;
+        margin-bottom: -85px;
+    }
+
+    .single_tasks_box .image_area {
+        padding-top: 30px;
+        margin-bottom: 40px;
+    }
+
+    .single_tasks_box h4 {
+        font-size: 15px;
+    }
+
+    /*  */
+    .fill_progress li {
+        font-size: 21px;
+    }
+
+    .conpany_info .sidebar {
+        width: 370px;
+    }
+
+    .conpany_info .sidebar .primary_btn {
+        font-size: 15px;
+        padding: 8px 25px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1499.99px) {
+    .single_tasks_box .text_area {
+        padding: 30px 15px;
+    }
+
+    .single_tasks_box h3 {
+        font-size: 23px;
+        gap: 4px;
+    }
+
+    .single_tasks_box p {
+        font-size: 18px;
+    }
+
+    .single_tasks_box .bar {
+        margin: 10px auto;
+    }
+
+    .primary_btn {
+        font-size: 18px;
+        padding: 5px 25px;
+    }
+
+    .single_notify_box h3 {
+        font-size: 22px;
+    }
+
+    .tasks .col-lg-3 {
+        width: 25%;
+    }
+}
+
+/*Extra Large Devices Layout: Up to 1200px*/
+
+@media only screen and (max-width: 1200px) {
+    .single_tasks_box {
+        margin-bottom: 30px;
+    }
+
+    .conpany_info .sidebar {
+        width: 315px;
+    }
+}
+
+
+
+/*Large Devices Layout: 1200px*/
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+
+    .notifications .col-lg-3,
+    .tasks .col-lg-3 {
+        width: 50%;
+    }
+
+    .conpany_info .sidebar {
+        background-color: #EEEEEB;
+        padding: 20px;
+    }
+
+    .conpany_info .sidebar h3 {
+        font-size: 25px;
+    }
+
+    .fill_progress li span {
+        width: 24px;
+        height: 24px;
+        left: -33px;
+    }
+
+    .fill_progress {
+        padding-left: 35px;
+    }
+
+    .fill_progress li {
+        font-size: 19px;
+    }
+
+    .conpany_info .area_title h3 {
+        font-size: 32px;
+    }
+}
+
+
+@media only screen and (min-width: 992px) {
+    .container-fluid {
+        padding: 0 30px;
+    }
+
+
+
+
+}
+
+/* Medium Devices Layout: 991px */
+
+@media only screen and (max-width: 991.98px) {
+
+    .conpany_info .sidebar.stiky,
+    .conpany_info .sidebar {
+        top: auto;
+        padding: 50px 15px 20px 15px;
+        position: fixed;
+        left: 0;
+        width: 100%;
+        bottom: -490px;
+        margin-bottom: 0;
+        margin-bottom: 0px;
+    }
+
+    .conpany_info .sidebar.show {
+        bottom: 0;
+    }
+
+    .conpany_info .sidebar .phone_controol {
+        position: absolute;
+        display: block;
+    }
+
+
+    .single_tasks_box h3 {
+        font-size: 23px;
+        gap: 4px;
+    }
+
+    .section_title h2 {
+        font-size: 42px;
+    }
+
+    .nof_popup .modal-content {
+        padding: 10px;
+    }
+
+    .nof_popup .m_close {
+        right: 10px;
+        top: 16px;
+    }
+
+    /*  */
+    /*     .conpany_info .sidebar {
+        margin-bottom: 30px;
+    } */
+
+    .form_area {
+        padding-left: 0px;
+    }
+}
+
+
+/*Tablet Layout: 767px*/
+
+@media only screen and (max-width: 767.98px) {
+
+
+    .header.stiky .header_top .logo a img,
+    .header_top .logo a img {
+        width: 115px;
+    }
+
+    .back_portal a {
+        font-size: 22px;
+    }
+
+    .notifications_area .label {
+        display: none;
+    }
+
+    .c_account h2 {
+        font-size: 18px;
+        width: 270px;
+    }
+
+    .c_account h2 span {
+        padding: 3px 9px;
+        margin-left: 4px;
+        font-size: 16px;
+    }
+
+    .notifications_area .bell {
+        height: 42px;
+        width: 42px;
+        line-height: 42px;
+        font-size: 20px;
+        margin-left: 15px;
+    }
+
+    .notifications_area .bell .number {
+        font-size: 14px;
+        padding: 4px 7px;
+        right: 26px;
+    }
+
+    .page_banner {
+        padding-top: 190px;
+        padding-bottom: 30px;
+    }
+
+    .section_padding {
+        padding: 50px 0;
+    }
+
+    .section_title h2 {
+        font-size: 34px;
+    }
+
+    .section_title p {
+        font-size: 18px;
+        line-height: 1.4;
+    }
+
+    .nof_popup .m_close {
+        display: none;
+    }
+
+    .nof_popup .modal-body .inner {
+        padding-left: 0;
+        padding-top: 10px;
+    }
+
+    .nof_popup .n_profile h3 {
+        font-size: 25px;
+        max-width: 100%;
+    }
+
+    .nof_popup .n_profile .image {
+        width: 75px;
+    }
+
+    .nof_popup .modal-body .primary_btn {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+
+    .nof_popup .m_close_2 {
+        display: block;
+    }
+
+
+    .notification_popup .triangle {
+        display: none;
+    }
+
+
+    .notification_popup {
+        width: calc(100% - 20px);
+        border-radius: 7px 7px 7px 7px;
+        position: fixed;
+        top: 115px;
+        right: 10px;
+        padding: 15px;
+    }
+
+    .notification_popup.active {
+        top: 107px;
+    }
+
+    .notification_popup h2 {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+
+    .notification_popup .single_day h3 {
+        font-size: 15px;
+        padding: 4px 10px;
+    }
+
+    .notification_popup .single_notification .image {
+        width: 50px;
+    }
+
+    .notification_popup .single_notification .text h4 {
+        font-size: 15px;
+    }
+
+    .notification_popup .single_notification .text p {
+        margin-bottom: 8px;
+        font-size: 14px;
+    }
+
+    .notification_popup .single_notification .text {
+        width: calc(100% - 50px);
+    }
+
+    .notification_popup .primary_btn {
+        font-size: 15px;
+        padding: 7px 19px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .conpany_info {
+        padding-bottom: 60px;
+    }
+
+    .conpany_info .area_title h3 {
+        font-size: 26px;
+    }
+
+    .conpany_info .form_area label {
+        font-size: 18px;
+    }
+
+    .conpany_info .sub_lebel {
+        font-size: 14px;
+    }
+
+    .form_single_area {
+        margin-bottom: 35px;
+    }
+
+    .playlist .add_item {
+        height: 36px;
+        width: 38px;
+    }
+
+    .conpany_info hr {
+        display: none;
+    }
+
+    .notification_popup:before {
+        display: none;
+    }
+
+
+}
+
+
+/* Small Mobile Layout: 576px) */
+
+@media (max-width: 575.98px) {
+
+    .notifications_area .bell {
+        height: 38px;
+        width: 38px;
+        line-height: 39px;
+        font-size: 17px;
+        margin-left: 15px;
+    }
+
+    .single_notify_box h3 {
+        font-size: 20px;
+        min-height: auto;
+    }
+
+    .header_top {
+        padding: 7px 0;
+    }
+
+    .header.stiky .header_top .logo a img,
+    .header_top .logo a img {
+        width: 105px;
+    }
+
+    .back_portal a {
+        font-size: 18px;
+    }
+
+    .header.stiky .header_bottom,
+    .header_bottom {
+        padding: 10px 0 12px;
+    }
+
+
+    .page_banner {
+        padding-top: 150px;
+        padding-bottom: 20px;
+    }
+
+    .single_tasks_box {
+        border: 2px solid #DFDFDF;
+    }
+
+    .single_tasks_box .image_area {
+        background-color: transparent;
+        text-align: left;
+        padding: 20px;
+        /* border: 2px solid var(--gray); */
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 0;
+    }
+
+
+    .single_tasks_box .text_area h3 {
+        display: none;
+    }
+
+    .single_tasks_box .title {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .single_tasks_box .title .fa-sort-down {
+        font-size: 30px;
+        color: var(--dark-blue);
+        margin-bottom: 10px;
+    }
+
+    .single_tasks_box.active .title .fa-sort-down {
+        transform: rotate(180deg);
+        margin-bottom: -14px;
+    }
+
+    .single_tasks_box .title h3 {
+        display: flex;
+        margin: 0;
+        font-size: 25px;
+    }
+
+    .single_tasks_box .title i {
+        opacity: 1;
+    }
+
+    .single_tasks_box h3 .info i {
+        text-align: center;
+
+    }
+
+    .single_tasks_box .image_area img {
+        height: 88px;
+        width: 88px;
+        margin-bottom: 0;
+    }
+
+
+    .single_tasks_box .text_area {
+        display: none;
+        text-align: left;
+    }
+
+
+    .single_tasks_box.active .text_area {
+        display: block;
+
+    }
+
+    .single_tasks_box .bar {
+        width: 100%;
+    }
+
+    .primary_btn {
+        font-size: 18px;
+        padding: 6px 19px;
+    }
+
+
+    .footer {
+        padding: 30px 30px;
+    }
+
+    .footer_right {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .footer_logo a img {
+        width: 200px;
+    }
+
+
+    .nof_popup .modal-body .primary_btn {
+        margin-top: 20px;
+        font-size: 16px;
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .nof_popup .bottom_close {
+        text-align: center;
+    }
+
+    .nof_popup .m_close_2 {
+        display: block;
+        margin: 10px auto 0;
+    }
+
+    .nof_popup .modal-dialog {
+        margin-top: 12%;
+        padding: 0px;
+    }
+
+    .nof_popup .n_profile {
+        gap: 10px;
+    }
+
+    .nof_popup .n_profile h3 {
+        font-size: 22px;
+        margin-top: 3px;
+    }
+
+    /*  */
+
+    .conpany_info .sidebar .phone_controol {
+        position: absolute;
+        display: block;
+    }
+
+.conpany_info .sidebar.stiky,
+    .conpany_info .sidebar {
+        padding: 50px 15px 20px 15px;
+        position: fixed;
+        left: 0;
+        width: 100%;
+        bottom: -428px;
+        margin-bottom: 0;
+    }
+
+/*     .conpany_info .sidebar.stiky,
+    .conpany_info .sidebar {
+        top: auto;
+        padding: 50px 15px 20px 15px;
+        position: fixed;
+        left: 0;
+        width: 100%;
+        bottom: -490px;
+        margin-bottom: 0;
+        margin-bottom: 0px;
+    } */
+    .conpany_info .sidebar.show {
+        bottom: 0;
+    }
+
+    .conpany_info .sidebar h3 {
+        font-size: 24px;
+    }
+
+    .fill_progress li {
+        font-size: 18px;
+    }
+
+    .fill_progress li span {
+        width: 25px;
+        height: 25px;
+        left: -34px;
+    }
+
+    .fill_progress {
+        padding-left: 33px;
+    }
+
+    .fill_progress:after {
+        left: 10px;
+    }
+
+    .conpany_info .sidebar .primary_btn {
+        margin-top: 5px;
+    }
+
+    .conpany_info {
+        padding-bottom: 30px;
+    }
+
+}
+
+
+
+/* Extra Small Mobile Layout: 480px. */
+
+@media only screen and (max-width: 479px) {
+    .c_account h2 {
+        font-size: 17px;
+        width: 250px;
+    }
+
+    .c_account h2 span {
+        padding: 3px 8px;
+        font-size: 14px;
+    }
+
+    .submit_buttons ul {
+        display: flex;
+        gap: 20px;
+    }
+
+    .submit_buttons ul li {
+        display: inline-block;
+        width: calc(50% - 10px);
+    }
+
+    .submit_buttons ul li button {
+        width: 100%
+    }
+}
+
+@media only screen and (max-width: 433px) {
+    .single_tasks_box .image_area img {
+        height: 70px;
+        width: 70px;
+    }
+
+    .single_tasks_box .image_area {
+        padding: 15px 10px;
+    }
+
+    .single_tasks_box .title h3 {
+        font-size: 20px;
+    }
+
+    .single_tasks_box .title .fa-sort-down {
+        font-size: 26px;
+    }
+}
+
+
+/* Extra Small Mobile Height */
+@media only screen and (max-height: 400px) {}

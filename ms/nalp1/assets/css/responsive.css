@@ -1,0 +1,158 @@
+/*Extra Large Devices Layout: Up to 1200px*/
+
+@media only screen and (min-width: 1200px) {}
+
+@media only screen and (max-width: 1599px) {
+    .employers-reg .title h2 {
+        font-size: 55px;
+    }
+
+    .employers-reg .title h2 span {
+        font-size: 30px;
+    }
+
+    .header-bottom .main-menu li a {
+        font-size: 22px;
+        margin-left: 25px;
+    }
+
+    .header-top ul li a {
+        font-size: 17px;
+        padding: 8px 12px;
+    }
+    .login-tabs.nav-pills li button{
+        font-size: 17px;
+    }
+
+    .reg-form .form-label {
+        font-weight: 400;
+        font-size: 22px;
+    }
+
+}
+
+/*Large Devices Layout: 1200px*/
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {}
+
+
+/* Medium Devices Layout: 991px */
+
+@media only screen and (max-width: 991.98px) {
+    .header-top {
+        display: none;
+    }
+
+    .mobile-menu-btn {
+        display: inline-block;
+    }
+
+    .main-menu {
+        display: none;
+    }
+
+    .mobile-menu {
+        display: block;
+    }
+
+    .header-bottom .logo {
+        max-width: 185px;
+    }
+
+    .header-bottom {
+        padding: 10px 0;
+    }
+
+    .employers-reg {
+        color: #fff;
+        margin-top: -95px;
+    }
+
+    .employers-reg .title p {
+        font-size: 20px;
+    }
+
+    .footer,
+    .copyright-text {
+        text-align: center;
+    }
+
+    .copyright-text {
+        margin-top: 10px;
+    }
+
+}
+
+
+/*Tablet Layout: 767px*/
+
+@media only screen and (max-width: 767.98px) {
+
+
+
+    .footer {
+        font-size: 14px;
+    }
+
+    .reg-form .custom-btn {
+        width: 100%;
+    }
+
+    .login-tabs.nav-pills li button {
+        font-size: 18px;
+    }
+
+    .custom-btn {
+        font-size: 20px;
+        padding: 7px 33px;
+    }
+
+
+}
+
+
+/* Small Mobile Layout: 576px) */
+
+@media (max-width: 575.98px) {}
+
+
+
+/* Extra Small Mobile Layout: 480px. */
+
+@media only screen and (max-width: 479px) {
+
+    .form-control,
+    .form-control:focus {
+        height: 46px;
+    }
+
+    .reg-form .form-label {
+        font-size: 20px;
+    }
+
+    .reg-form .custom-btn {
+        width: 100%;
+        padding: 10px 50px;
+    }
+
+    .employers-reg .title h2 {
+        font-size: 46px;
+    }
+
+    .employers-reg .title h2 span {
+        font-size: 25px;
+    }
+
+    .employers-reg .title p {
+        font-size: 18px;
+    }
+
+    .custom_arrow:after {
+        top: 16px;
+    }
+
+
+}
+
+
+/* Extra Small Mobile Height */
+@media only screen and (max-width: 400px) {}
